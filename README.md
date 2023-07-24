@@ -1,5 +1,5 @@
 # Swift
-credits to: ![Sean Allen](https://youtu.be/CwA1VWP0Ldw)
+credits to: [Sean Allen](https://youtu.be/CwA1VWP0Ldw)
 
 ## Types
 
