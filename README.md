@@ -1,4 +1,5 @@
 # Swift
+credits to: Sean Allen
 
 ## Types
 
