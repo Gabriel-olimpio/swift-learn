@@ -37,9 +37,9 @@ age = 21 // Cannot change
 - Ordered
 - Duplicates
 
-![Untitled](Swift%203d54a866c8ff44cda641b17665ea2c24/Untitled.png)
+![Untitled](assets/Untitled.png)
 
-![Untitled](Swift%203d54a866c8ff44cda641b17665ea2c24/Untitled%201.png)
+![Untitled](assets/Untitled%201.png)
 
 ```swift
 var ages: [Int] = [12, 46, 89, 13 , 10, 36, 83, 65] // Declaring the type of the array
